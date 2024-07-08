@@ -1,0 +1,41 @@
+Starting < Random Movements >
+Episode: 0 Score: [3.5696301]
+Episode: 1 Score: [-102.759445]
+Episode: 2 Score: [-69.03697]
+Episode: 3 Score: [-0.43009752]
+Episode: 4 Score: [-5.7899003]
+Episode: 5 Score: [-23.678045]
+Episode: 6 Score: [-6.4870095]
+Episode: 7 Score: [-63.70186]
+Episode: 8 Score: [7.4444346]
+Episode: 9 Score: [-84.56185]
+Mean Score for 10 episodes: [-34.543114]
+
+
+Starting < Ant_Model_TD3_NA >
+Episode: 1 Score: [2908.0208]
+Episode: 2 Score: [2986.691]
+Episode: 3 Score: [2961.3289]
+Episode: 4 Score: [2892.5364]
+Episode: 5 Score: [2987.9683]
+Episode: 6 Score: [2925.276]
+Episode: 7 Score: [2967.1555]
+Episode: 8 Score: [2931.658]
+Episode: 9 Score: [2850.2058]
+Episode: 10 Score: [2882.594]
+For model < Ant_Model_TD3_NA >
+Mean Score for 10 episodes: [2929.3433]
+
+Starting < Ant_Model_TD3_Orn >
+Episode: 1 Score: [3097.3328]
+Episode: 2 Score: [3040.1575]
+Episode: 3 Score: [3010.302]
+Episode: 4 Score: [3043.3186]
+Episode: 5 Score: [3089.7444]
+Episode: 6 Score: [3094.2131]
+Episode: 7 Score: [3086.615]
+Episode: 8 Score: [3117.8171]
+Episode: 9 Score: [3116.956]
+Episode: 10 Score: [3117.9446]
+For model < Ant_Model_TD3_Orn >
+Mean Score for 10 episodes: [3081.4402]
